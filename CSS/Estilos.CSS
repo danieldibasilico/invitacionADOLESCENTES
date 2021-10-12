@@ -1,0 +1,24 @@
+body{
+    background-image: url("../CSS/img.jpg");
+    background-size: 700px;   
+}
+h1{
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    color: #fefae0;
+    border: #fefae0;
+    text-align: center;
+}
+p{
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    text-decoration: solid;
+    color: #fefae0;
+    text-align: center;
+    font-size: 35px;
+    font-style: initial;
+}
+span{
+    
+    border: 0px;
+    margin: 0px;
+    font-size: 20px;
+}
